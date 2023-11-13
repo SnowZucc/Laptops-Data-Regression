@@ -1,0 +1,35 @@
+laptop_data_quantified.Category[laptop_data_quantified.Category == 'Ultrabook'] = 1
+laptop_data_quantified.Category[laptop_data_quantified.Category == 'Notebook'] = 2
+laptop_data_quantified.Category[laptop_data_quantified.Category == 'Netbook'] = 3
+laptop_data_quantified.Category[laptop_data_quantified.Category == 'Gaming'] = 4
+laptop_data_quantified.Category[laptop_data_quantified.Category == '2 in 1 Convertible'] = 5
+laptop_data_quantified.Category[laptop_data_quantified.Category == 'Workstation'] = 6
+
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'macOS'] = 1
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'No OS'] = 2
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'Windows'] = 3
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'Mac OS'] = 4
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'Linux'] = 5
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'Android'] = 6
+laptop_data_quantified.OperatingSystem[laptop_data_quantified.OperatingSystem== 'Chrome OS'] = 7
+
+
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Apple'] = 1
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'HP'] = 2
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Acer'] = 3
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Asus'] = 4
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Dell'] = 5
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Lenovo'] = 6
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Chuwi'] = 7
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'MSI'] = 8
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Microsoft'] = 9
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Toshiba'] = 10
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Huawei'] = 11
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Xiaomi'] = 12
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Vero'] = 13
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Razer'] = 14
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Mediacom'] = 15
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Samsung'] = 16
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Google'] = 17
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'Fujitsu'] = 18
+laptop_data_quantified.Manufacturer[laptop_data_quantified.Manufacturer== 'LG'] = 19
